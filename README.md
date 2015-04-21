@@ -6,3 +6,5 @@ GitHUb is all about and see in how far I can learn from it. And I already notice
 Once I have an idea for my project, you guys will know first.
 
 Happy to contribute soon! 
+
+This is my edit. Bonsoir
